@@ -1,2 +1,8 @@
 # ODS_ML_SYSTEM_DESIGN
-This repo created for ODS ML System Design Course. Held in teams. 
+
+Репозиторий создан для участия на курса от ODS ML System Design 2023. 
+
+Команда пока состоит из 5 человек. 
+
+Проект будет определен позже
+
